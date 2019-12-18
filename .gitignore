@@ -2,3 +2,5 @@ SN.txt
 *.gif
 *.jpg
 Statics/
+*.docx
+!Main.docx
