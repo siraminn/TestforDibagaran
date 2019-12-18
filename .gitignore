@@ -4,4 +4,4 @@ SN.txt
 Statics/
 *.docx
 !Main.docx
-Statics/!*.docx
+Statics/!11.docx
