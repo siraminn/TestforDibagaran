@@ -1,12 +1,12 @@
 SN.txt
 *.gif
 *.jpg
-
 *.docx
 !Main.docx
 *.txt
-!Statics/22.txt
-!Statics/22 - Copy.txt
+!Statics/Help.txt
+!Help.txt
+
 
 
 
