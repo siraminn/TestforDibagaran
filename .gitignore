@@ -1,8 +1,9 @@
 SN.txt
 *.gif
 *.jpg
-
+Statics/
 *.docx
 !Main.docx
 *.txt
-Statics/
+!Statics/220.txt
+
