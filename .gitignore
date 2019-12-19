@@ -5,5 +5,4 @@ SN.txt
 *.docx
 !Main.docx
 *.txt
-Statics/
-!22.txt
+Statics/!22.txt
