@@ -1,6 +1,7 @@
 SN.txt
 *.gif
 *.jpg
+*.png
 *.docx
 !Main.docx
 *.txt
